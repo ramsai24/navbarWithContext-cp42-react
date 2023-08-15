@@ -1,1 +1,18 @@
 /* Write your CSS here */
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 18px;
+  border-bottom: 1px solid #64748b;
+}
+
+.dark {
+  background-color: #333333;
+  color: white;
+}
+
+.light {
+  background-color: #dcdcdc;
+  color: black;
+}

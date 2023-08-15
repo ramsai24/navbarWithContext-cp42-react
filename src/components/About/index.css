@@ -1,1 +1,18 @@
 /* Write your CSS here */
+.about-container {
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  padding: 18px;
+}
+
+.about-dark {
+  background-color: #000000;
+  color: white;
+}
+
+.about-light {
+  background-color: #f8fafc;
+  color: black;
+}

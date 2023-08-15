@@ -1,1 +1,18 @@
 /* Write your CSS here */
+.home-container {
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  padding: 18px;
+}
+
+.home-dark {
+  background-color: #000000;
+  color: white;
+}
+
+.home-light {
+  background-color: #f8fafc;
+  color: black;
+}
