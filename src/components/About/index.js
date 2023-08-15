@@ -14,6 +14,7 @@ const About = () => (
             src="https://assets.ccbp.in/frontend/react-js/about-dark-img.png"
             alt="about"
           />
+          <h1>About</h1>
         </div>
       )
 
@@ -23,6 +24,7 @@ const About = () => (
             src="https://assets.ccbp.in/frontend/react-js/about-light-img.png"
             alt="about"
           />
+          <h1>About</h1>
         </div>
       )
 

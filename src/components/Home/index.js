@@ -14,6 +14,7 @@ const Home = () => (
             src="https://assets.ccbp.in/frontend/react-js/home-dark-img.png"
             alt="home"
           />
+          <h1>Home</h1>
         </div>
       )
 
@@ -23,6 +24,7 @@ const Home = () => (
             src="https://assets.ccbp.in/frontend/react-js/home-light-img.png"
             alt="home"
           />
+          <h1>Home</h1>
         </div>
       )
 
